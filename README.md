@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Desarrollador Junior de Python con habilidades en la aplicaciones y análisis de datos</h2></summary>
+    <summary><h2 style="display: inline-block">Desarrollador Junior de Python con habilidades en la aplicación y análisis de datos</h2></summary>
   </ul>
 </div>
 
